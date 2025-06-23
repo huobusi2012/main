@@ -5,8 +5,6 @@ http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1,CCTV1
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1,CCTV2央视
-https://vip.lz-cdn1.com/20220502/4127_3dcd3eb0/1200k/hls/mixed.m3u8
 
 #EXTINF:-1,四川科教
 https://stream1.freetv.fun/si-chuan-ke-jiao-5.m3u8
