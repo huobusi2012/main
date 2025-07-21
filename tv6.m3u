@@ -32,15 +32,15 @@ http://192.168.10.1:8686/udp/239.49.0.128:8000
 http://192.168.10.1:8686/udp/239.49.8.31:8000
 #EXTINF:-1,CCTV17HD
 http://192.168.10.1:8686/udp/239.49.8.52:9810
-北京卫视4K
+#EXTINF:-1,北京卫视4K
 http://192.168.10.1:8686/udp/239.49.0.253:8000
-广东卫视
+#EXTINF:-1,广东卫视
 http://192.168.10.1:8686/udp/239.49.1.24:8000
-深圳卫视4K（SDR）
+#EXTINF:-1,深圳卫视4K（SDR）
 http://192.168.10.1:8686/udp/239.49.1.27:8000
-CGTN俄语HD
+#EXTINF:-1,CGTN俄语HD
 http://192.168.10.1:8686/udp/239.49.0.111:8000
-优漫卡通HD
+#EXTINF:-1,优漫卡通HD
 http://192.168.10.1:8686/udp/239.49.8.119:8000
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1央视" tvg-id="CCTV1央视" tvg-name="CCTV1央视",CCTV1央视
