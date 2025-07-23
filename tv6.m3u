@@ -1,37 +1,37 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1hd" tvg-id="CCTV1hd" tvg-name="CCTV1hd",CCTV1HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1HD" tvg-id="CCTV1HD" tvg-name="CCTV1HD",CCTV1HD
 http://192.168.10.1:8686/udp/239.49.8.19:9614
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2hd" tvg-id="CCTV2hd" tvg-name="CCTV2hd",CCTV2HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2HD" tvg-id="CCTV2HD" tvg-name="CCTV2HD",CCTV2HD
 http://192.168.10.1:8686/udp/239.49.8.50:9802
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3hd" tvg-id="CCTV3hd" tvg-name="CCTV3hd",CCTV3HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3HD" tvg-id="CCTV3HD" tvg-name="CCTV3HD",CCTV3HD
 http://192.168.10.1:8686/udp/239.49.8.74:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4hd" tvg-id="CCTV4hd" tvg-name="CCTV4hd",CCTV4HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4HD" tvg-id="CCTV4HD" tvg-name="CCTV4HD",CCTV4HD
 http://192.168.10.1:8686/udp/239.49.8.51:9806
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5hd" tvg-id="CCTV5hd" tvg-name="CCTV5hd",CCTV5HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5HD" tvg-id="CCTV5HD" tvg-name="CCTV5HD",CCTV5HD
 http://192.168.10.1:8686/udp/239.49.8.75:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6hd" tvg-id="CCTV6hd" tvg-name="CCTV6hd",CCTV6HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6HD" tvg-id="CCTV6HD" tvg-name="CCTV6HD",CCTV6HD
 http://192.168.10.1:8686/udp/239.49.8.76:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7hd" tvg-id="CCTV7hd" tvg-name="CCTV7hd",CCTV7HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7HD" tvg-id="CCTV7HD" tvg-name="CCTV7HD",CCTV7HD
 http://192.168.10.1:8686/udp/239.49.0.126:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8hd" tvg-id="CCTV8hd" tvg-name="CCTV8hd",CCTV8HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8HD" tvg-id="CCTV8HD" tvg-name="CCTV8HD",CCTV8HD
 http://192.168.10.1:8686/udp/239.49.8.77:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9hd" tvg-id="CCTV9hd" tvg-name="CCTV9hd",CCTV9HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9HD" tvg-id="CCTV9HD" tvg-name="CCTV9HD",CCTV9HD
 http://192.168.10.1:8686/udp/239.49.8.53:9814
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10hd" tvg-id="CCTV10hd" tvg-name="CCTV10hd",CCTV10HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10HD" tvg-id="CCTV10HD" tvg-name="CCTV10HD",CCTV10HD
 http://192.168.10.1:8686/udp/239.49.8.54:9818
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11hd" tvg-id="CCTV11hd" tvg-name="CCTV11hd",CCTV11HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV11HD" tvg-id="CCTV11HD" tvg-name="CCTV11HD",CCTV11HD
 http://192.168.10.1:8686/udp/239.49.0.127:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV12hd" tvg-id="CCTV12hd" tvg-name="CCTV12hd",CCTV12HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV12HD" tvg-id="CCTV12HD" tvg-name="CCTV12HD",CCTV12HD
 http://192.168.10.1:8686/udp/239.49.8.55:9822
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13hd" tvg-id="CCTV13hd" tvg-name="CCTV13hd",CCTV13HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13HD" tvg-id="CCTV13HD" tvg-name="CCTV13HD",CCTV13HD
 http://192.168.10.1:8686/udp/239.49.8.109:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14hd" tvg-id="CCTV14hd" tvg-name="CCTV14hd",CCTV14HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14HD" tvg-id="CCTV14HD" tvg-name="CCTV14HD",CCTV14HD
 http://192.168.10.1:8686/udp/239.49.8.56:9826
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV音乐hd" tvg-id="CCTV音乐hd" tvg-name="CCTV音乐hd",CCTV音乐HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV音乐HD" tvg-id="CCTV音乐HD" tvg-name="CCTV音乐HD",CCTV音乐HD
 http://192.168.10.1:8686/udp/239.49.0.128:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV16hd" tvg-id="CCTV16hd" tvg-name="CCTV16hd",CCTV16HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV16HD" tvg-id="CCTV16HD" tvg-name="CCTV16HD",CCTV16HD
 http://192.168.10.1:8686/udp/239.49.8.31:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV17hd" tvg-id="CCTV17hd" tvg-name="CCTV17hd",CCTV17HD
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV17HD" tvg-id="CCTV17HD" tvg-name="CCTV17HD",CCTV17HD
 http://192.168.10.1:8686/udp/239.49.8.52:9810
 #EXTINF:-1,CGTN俄语HD
 http://192.168.10.1:8686/udp/239.49.0.111:8000
@@ -84,7 +84,7 @@ http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1,宜阳综合
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 #EXTINF:-1,苏州4k
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+https://live-auth.51kandianshi.com/szgd/csztv4k_HD.m3u8
 #EXTINF:-1,苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1,苏州新闻综合
