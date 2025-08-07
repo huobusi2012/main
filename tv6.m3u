@@ -77,14 +77,22 @@ http://192.168.10.1:8686/udp/239.49.8.112:8000
 http://192.168.10.1:8686/udp/239.49.8.7:9306
 #EXTINF:-1,江苏省城市足球联赛2
 http://192.168.10.1:8686/udp/239.49.8.97:8000
+#EXTINF:-1,CETV1HD
+http://192.168.10.1:8686/udp/239.49.8.115:8000
+#EXTINF:-1,金鹰纪实HD
+http://192.168.10.1:8686/udp/239.49.8.79:8000
+#EXTINF:-1,金鹰卡通HD
+http://192.168.10.1:8686/udp/239.49.8.33:8000
+#EXTINF:-1,中国天气HD
+http://192.168.10.1:8686/udp/239.49.0.94:8000
+#EXTINF:-1,都市剧场HD
+http://192.168.10.1:8686/udp/239.49.0.99:8000
 #EXTINF:-1,叶县电视台
 http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13",CCTV13
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1,宜阳综合
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-#EXTINF:-1,苏州4k
-https://live-auth.51kandianshi.com/szgd/csztv4k_HD.m3u8
 #EXTINF:-1,苏州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1,苏州新闻综合
