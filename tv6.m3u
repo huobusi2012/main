@@ -37,6 +37,8 @@ http://192.168.10.1:8686/udp/239.49.8.52:9810
 http://192.168.10.1:8686/udp/239.49.0.111:8000
 #EXTINF:-1,CGTN法语HD
 http://192.168.10.1:8686/udp/239.49.1.31:8000
+#EXTINF:-1,CGTN西班牙HD
+http://192.168.10.1:8686/udp/239.49.1.30:8000
 #EXTINF:-1,CGTN英语
 http://192.168.10.1:8686/udp/239.49.0.9:8064
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/优漫卡通" tvg-id="优漫卡通" tvg-name="优漫卡通",优漫卡通HD
@@ -65,6 +67,8 @@ http://192.168.10.1:8686/udp/239.49.0.167:8000
 http://192.168.10.1:8686/udp/239.49.0.250:8000
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视",青海卫视HD
 http://192.168.10.1:8686/udp/239.49.0.81:8000
+#EXTINF:-1,吉林卫视HD
+http://192.168.10.1:8686/udp/239.49.8.113:8000
 #EXTINF:-1,山东教育卫视HD
 http://192.168.10.1:8686/udp/239.49.0.252:8000
 #EXTINF:-1,江苏城市HD
@@ -97,10 +101,44 @@ http://192.168.10.1:8686/udp/239.49.0.178:8000
 http://192.168.10.1:8686/udp/239.49.0.240:8000
 #EXTINF:-1,云南卫视
 http://192.168.10.1:8686/udp/239.49.0.147:8000
+#EXTINF:-1,黑龙江卫视HD
+http://192.168.10.1:8686/udp/239.49.8.14:9426
+#EXTINF:-1,东方卫视HD
+http://192.168.10.1:8686/udp/239.49.8.17:9606
+
+#EXTINF:-1,辽宁卫视HD
+http://192.168.10.1:8686/udp/239.49.8.48:8000
+
+#EXTINF:-1,海南卫视HD
+http://192.168.10.1:8686/udp/239.49.8.83:8000
+
 #EXTINF:-1,江苏省城市足球联赛2
 http://192.168.10.1:8686/udp/239.49.8.97:8000
+#EXTINF:-1,4K跨年直播
+http://192.168.10.1:8686/udp/239.49.8.82:8000
+#EXTINF:-1,CBA直播
+http://192.168.10.1:8686/udp/239.49.8.98:8000
+#EXTINF:-1,篮球世界
+http://192.168.10.1:8686/udp/239.49.8.105:8000
+
+#EXTINF:-1,羽毛球直播
+http://192.168.10.1:8686/udp/239.49.8.104:8000
+
+
+#EXTINF:-1,江苏综艺HD
+http://192.168.10.1:8686/udp/239.49.8.108:8000
+#EXTINF:-1,江苏体育休闲HD
+http://192.168.10.1:8686/udp/239.49.8.117:8000
+#EXTINF:-1,江苏新闻HD
+http://192.168.10.1:8686/udp/239.49.8.120:8000
+#EXTINF:-1,江苏体育休闲HD
+http://192.168.10.1:8686/udp/239.49.8.117:8000
 #EXTINF:-1,CETV1HD
 http://192.168.10.1:8686/udp/239.49.8.115:8000
+#EXTINF:-1,CETV2
+http://192.168.10.1:8686/udp/239.49.0.71:8560
+#EXTINF:-1,CETV4HD
+http://192.168.10.1:8686/udp/239.49.0.125:8000
 #EXTINF:-1,金鹰纪实HD
 http://192.168.10.1:8686/udp/239.49.8.79:8000
 #EXTINF:-1,金鹰卡通HD
@@ -135,10 +173,13 @@ http://192.168.10.1:8686/udp/239.49.0.38:8000
 http://192.168.10.1:8686/udp/239.49.0.75:8000
 #EXTINF: -1,南京少儿
 http://192.168.10.1:8686/udp/239.49.0.45:8000
-
+#EXTINF: -1,江苏教育
+http://192.168.10.1:8686/udp/239.49.0.23:8176
+EXTINF: -1,江苏国际
+http://192.168.10.1:8686/udp/239.49.0.22:8168
 #EXTINF:-1,叶县电视台
 http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13",CCTV13
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13",CCTV13                      
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1,宜阳综合
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
