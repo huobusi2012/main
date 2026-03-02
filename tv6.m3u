@@ -1,11 +1,11 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1HD" tvg-id="CCTV1HD" tvg-name="CCTV1HD",CCTV1HD
+#EXTM3U 
+#EXTINF:-1,CCTV1HD
 http://192.168.10.1:8686/udp/239.49.8.19:9614
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV2HD" tvg-id="CCTV2HD" tvg-name="CCTV2HD",CCTV2HD
+#EXTINF:-1,CCTV2HD
 http://192.168.10.1:8686/udp/239.49.8.50:9802
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3HD" tvg-id="CCTV3HD" tvg-name="CCTV3HD",CCTV3HD
+#EXTINF:-1,CCTV3HD
 http://192.168.10.1:8686/udp/239.49.8.74:8000
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV4HD" tvg-id="CCTV4HD" tvg-name="CCTV4HD",CCTV4HD
+#EXTINF:-1,CCTV4HD
 http://192.168.10.1:8686/udp/239.49.8.51:9806
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5HD" tvg-id="CCTV5HD" tvg-name="CCTV5HD",CCTV5HD
 http://192.168.10.1:8686/udp/239.49.8.75:8000
@@ -41,7 +41,7 @@ http://192.168.10.1:8686/udp/239.49.1.31:8000
 http://192.168.10.1:8686/udp/239.49.1.30:8000
 #EXTINF:-1,CGTN英语
 http://192.168.10.1:8686/udp/239.49.0.9:8064
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/优漫卡通" tvg-id="优漫卡通" tvg-name="优漫卡通",优漫卡通HD
+#EXTINF:-1 ,优漫卡通HD
 http://192.168.10.1:8686/udp/239.49.8.119:8000
 #EXTINF:-1,卡酷少儿HD
 http://192.168.10.1:8686/udp/239.49.0.148:8000
@@ -85,8 +85,10 @@ http://192.168.10.1:8686/udp/239.49.8.10:8000
 http://192.168.10.1:8686/udp/239.49.8.35:8620
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视",重庆卫视HD
 http://192.168.10.1:8686/udp/239.49.8.57:9830
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" tvg-name="四川卫视",四川卫视HD
+#EXTINF:-1,四川卫视HD
 http://192.168.10.1:8686/udp/239.49.8.110:8000
+#EXTINF:-1,四川科教HD
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" tvg-name="江西卫视",江西卫视HD
 http://192.168.10.1:8686/udp/239.49.8.111:8000
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" tvg-name="东南卫视",东南卫视HD
@@ -260,8 +262,7 @@ http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7
 http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1,嘉峪关综合
 http://play.kankanlive.com/live/1720583434627241.m3u8
-#EXTINF:-1,四川科教
-http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+
 #EXTINF:-1,太谷新闻综合
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 #EXTINF:-1,夹江新闻综合
@@ -280,16 +281,10 @@ http://pulls.myun.tv/live/0dkp33j5.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 #EXTINF:-1,嵊泗综合
 http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
-#EXTINF:-1,巩义新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
 #EXTINF:-1,常熟民生
 http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
 #EXTINF:-1,平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-#EXTINF:-1,广元公共
-https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-#EXTINF:-1,广元综合
-https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1,广安公共
 http://live1.gatv.com.cn:85/live/GGPD.m3u8
 #EXTINF:-1,广州新闻
